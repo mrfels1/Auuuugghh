@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">auuuggghh</string>
+    <string-array name="weight_scales">
+        <item>Carat</item>
+        <item>Gram</item>
+        <item>Kilo</item>
+        <item>Cent</item>
+        <item>Tonne</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+    </string-array>
+</resources>
